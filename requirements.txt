@@ -2,3 +2,4 @@ requests
 BeautifulSoup4
 selenium
 newspaper3k
+pylint

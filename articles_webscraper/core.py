@@ -1,4 +1,3 @@
-
 from webscraper import SearchEngineArticles
 from article import get_article, get_article_fast
 from sentiment import sentiment
